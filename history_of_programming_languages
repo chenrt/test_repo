@@ -143,6 +143,7 @@ Ask me anything!
 1995 - 在家门口附近的一个意大利饭馆用餐时，Rasmus Lerdorf意识到他吃的那盘意面正好是一个用来理解WWW万维网的极好模型，而所有的Web应用都应该仿照它们的媒介那样去做。在他的餐巾的背后，他设计出了著名的“可编程超链接Pasta（Programmable Hyperlinked Pasta，PHP）”语言。PHP的文档至今仍然保留在那片餐巾上。
 
     PHP最显著的特点就是：代码是可以直接嵌在HTML文档中的。
+    PHP是世界上最好的编程语言！
 
 1995 - 松本“Mad Matz”行弘创造出了Ruby语言，用来辟谣一些意味不明的、有关澳洲将会变成一片由莫霍克族战士和Tina Turner统治的荒漠的末世预言。该语言后来被它的真正发明者David Heinemeier Hansson重新命名为Ruby on Rails。（关于某个叫松本行弘的人发明了一种叫做Ruby的语言这件事情从未发生过，最好在这篇文章的下一个版本中删掉。 - DHH表示）
 
