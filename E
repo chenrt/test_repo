@@ -1,0 +1,12 @@
+这内容要分成几个commit来提交，比方说前4行是commit 1 (commit内容就写"This is commit XX)
+commit 1
+commit 1
+commit 1
+然后这几行是commit 2
+commit 2
+commit 2
+commit 3
+commit 3
+commit 4
+commit 4
+commit 3 (看清楚哦)
